@@ -1,0 +1,14 @@
+layout_spectrum: 0.04770148149691522
+typography_spectrum: 0.04401813191361725
+color:
+  brandStrength: 0.4475859976373613
+  lightness: 0.71364417206496
+  saturation: 0.02178467041812837
+  rhythmicContrast: 0.7868205448612571
+  brandColors:
+    - '#B8B42D'
+    - '#697A21'
+    - '#FFFCE8'
+    - '#3E363F'
+    - '#DD403A'
+name: Avatar Web
