@@ -1,5 +1,5 @@
 ---
-datePublished: '2016-05-28T18:39:45.744Z'
+datePublished: '2016-05-28T18:39:47.682Z'
 sourcePath: _posts/2016-04-16-where-to-eat-pizza-phaidon-presents-the-ultimate-pizza-buck.md
 inFeed: true
 isBasedOnUrl: 'http://www.wallpaper.com/lifestyle/phaidon-publishes-the-ultimate-pizza-bucket-list-where-to-eat-pizza'
@@ -17,7 +17,7 @@ keywords:
   - stone-baked
 related: []
 author: []
-dateModified: '2016-05-28T18:39:45.126Z'
+dateModified: '2016-05-28T18:39:47.330Z'
 title: 'Where to Eat Pizza: Phaidon presents the ultimate pizza bucket list | Lifestyle | Wallpaper* Magazine'
 app_links: []
 publisher:
@@ -28,7 +28,7 @@ publisher:
 description: "There are two kinds of books in this world: those everyone ought to read, and those that you must own. Phaidon's latest launch, Where To Eat Pizza, is both. Following on from 2015's great success Where Chefs Eat, Daniel Young's Where to Eat Pizza is an anthology of the best pizza places around the globe."
 inLanguage: en
 inNav: false
-starred: true
+starred: false
 _context: 'http://schema.org'
 _type: MediaObject
 
